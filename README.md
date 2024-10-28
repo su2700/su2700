@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah
+- 👋 Hi, I’m n04h
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering in KPI
 - 💞️ I’m looking to intern or trainee
